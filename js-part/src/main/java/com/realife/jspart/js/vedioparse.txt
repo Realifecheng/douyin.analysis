@@ -1,0 +1,84 @@
+
+
+
+
+
+
+//抖音连接
+https://v26.douyinvod.com/d1543a3c321586b136ee73224b215532/60daab7f/video/tos/cn/tos-cn-ve-15/380a0be65eaf41149946056e538d32e6/?a=6383&br=1347&bt=1347&cd=0%7C0%7C0&ch=26&cr=0&cs=0&cv=1&dr=0&ds=6&er=&l=021624939830242fdbddc0100fff0030acc11240000006e9b5a22&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amlydGQ6Zmg6NjMzNGkzM0ApNjg7ZTMzO2U4N2lkPDc2ZmdvaGc0cjRvLzVgLS1kLS9zcy00MWBiXmEwXy02Mi8zYDU6Yw%3D%3D&vl=&vr=
+https://v26.douyinvod.com/2850f920efb50b8b476e4ef43db7c47e/60daabe0/video/tos/cn/tos-cn-ve-15/6138d868a9b84c439f60344068dee595/?a=6383&br=1423&bt=1423&cd=0%7C0%7C0&ch=26&cr=0&cs=0&cv=1&dr=0&ds=3&er=&l=021624939883561fdbddc0100fff0030accd24900000034873bb5&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajc4Zjo6ZmxlNjMzNGkzM0ApPDxoZWZpNjxlNzY3ZjM0NWc1Zm5tcjRnMDZgLS1kLS9zc2NgLWJfXl41XjA2Y2M0NTE6Yw%3D%3D&vl=&vr=
+
+
+a: 6383
+br: 1218
+bt: 1218
+cd: 0|0|0
+ch: 26
+cr: 0
+cs: 0
+cv: 1
+dr: 0
+ds: 3
+er:
+l: 021624939966105fdbd400a040000000a70406400000007726b74
+lr: all
+mime_type: video_mp4
+net: 0
+pl: 0
+qs: 0
+rc: M21xajQ6Zm81NjMzNGkzM0ApMzNnPDhmPGVpNztkaTk3N2dlZG42cjRfY2BgLS1kLS9zcy9gXjNeNjJeXmAwXzMzXzM6Yw==
+vl:
+vr:
+
+------------------------------------
+Request URL: https://v26.douyinvod.com/8587b7be4b3826c32bf14e695fabe7db/60daac35/video/tos/cn/tos-cn-ve-15/66f0496a7f3e4e159395c4e7997d0699/?a=6383&br=1218&bt=1218&cd=0%7C0%7C0&ch=26&cr=0&cs=0&cv=1&dr=0&ds=3&er=&l=021624939966105fdbd400a040000000a70406400000007726b74&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M21xajQ6Zm81NjMzNGkzM0ApMzNnPDhmPGVpNztkaTk3N2dlZG42cjRfY2BgLS1kLS9zcy9gXjNeNjJeXmAwXzMzXzM6Yw%3D%3D&vl=&vr=
+Request Method: GET
+Status Code: 206 Partial Content
+Remote Address: 39.135.220.44:443
+Referrer Policy: strict-origin-when-cross-origin
+
+------------------------------------
+HTTP/1.1 206 Partial Content
+Date: Tue, 29 Jun 2021 04:12:49 GMT
+Content-Type: video/mp4
+Connection: keep-alive
+Server: openresty
+CloudServiceDiscount: CDN
+via: CHN-SH-CMCCZJ9-CACHE25[5],CHN-SH-CMCCZJ9-CACHE21[0,TCP_HIT,2],CHN-JSyangzhou-GLOBAL1-CACHE115[3],CHN-JSyangzhou-GLOBAL1-CACHE45[0,TCP_HIT,1],CHN-HElangfang-GLOBAL2-CACHE38[3],CHN-HElangfang-GLOBAL2-CACHE104[0,TCP_HIT,1],CHN-HEshijiazhuang-GLOBAL1-CACHE108[15],CHN-HEshijiazhuang-GLOBAL1-CACHE45[0,TCP_HIT,13]
+x-hcs-proxy-type: 1
+X-CCDN-CacheTTL: 2592000
+LCT-Pos-Percent: 0.00
+LCT-Hot-Series: 268435456
+X-CCDN-Expires: 2433978
+nginx-hit: 1
+Cache-Control: max-age=2592000
+Age: 160976
+Access-Control-Expose-Headers: Content-Length,Content-Range,content-type,expires,last-modified,via,x-cache
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: range
+Access-Control-Allow-Methods: GET,HEAD,POST,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 3600
+x-tt-trace-tag: id=26;cdn-cache=hit;type=static
+server-timing: cdn-cache;desc=HIT, edge;dur=5
+x-response-cache: edge_hit
+x-response-cinfo: 112.20.124.74
+Content-Range: bytes 491520-16076244/16076245
+Content-Length: 15584725
+---------------------------------
+
+GET /8587b7be4b3826c32bf14e695fabe7db/60daac35/video/tos/cn/tos-cn-ve-15/66f0496a7f3e4e159395c4e7997d0699/?a=6383&br=1218&bt=1218&cd=0%7C0%7C0&ch=26&cr=0&cs=0&cv=1&dr=0&ds=3&er=&l=021624939966105fdbd400a040000000a70406400000007726b74&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M21xajQ6Zm81NjMzNGkzM0ApMzNnPDhmPGVpNztkaTk3N2dlZG42cjRfY2BgLS1kLS9zcy9gXjNeNjJeXmAwXzMzXzM6Yw%3D%3D&vl=&vr= HTTP/1.1
+Host: v26.douyinvod.com
+Connection: keep-alive
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+Accept-Encoding: identity;q=1, *;q=0
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: video
+Referer: https://www.douyin.com/
+Accept-Language: zh-CN,zh;q=0.9
+Range: bytes=491520-
+--------------------------------------------
