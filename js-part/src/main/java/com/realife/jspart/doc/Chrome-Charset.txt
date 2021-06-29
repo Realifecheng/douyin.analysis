@@ -4,7 +4,7 @@ https://github.com/jinliming2/Chrome-Charset/releases
 
 //下载
 oenllhgkiiljibhfagbfogdbchhdchml_main.crx
-//该扩展名
+//修改扩展名
 oenllhgkiiljibhfagbfogdbchhdchml_main.zip
 
 //在Google浏览器中添加扩展程序
